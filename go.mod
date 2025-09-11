@@ -3,7 +3,7 @@ module github.com/ishu17077/project_todo
 go 1.23.5
 
 require (
-	github.com/go-chi/chi/v5 v5.2.0
+	github.com/go-chi/chi/v5 v5.2.2
 	github.com/go-playground/validator/v10 v10.24.0
 	github.com/thedevsaddam/renderer v1.2.0
 	go.mongodb.org/mongo-driver v1.17.2
